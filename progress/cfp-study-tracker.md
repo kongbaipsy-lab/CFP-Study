@@ -1,8 +1,8 @@
 # CFP Exam Study Tracker
 
-**Last Updated**: October 21, 2025
+**Last Updated**: October 23, 2025
 **Exam Date**: November 10, 2025
-**Days Until Exam**: 20 days
+**Days Until Exam**: 18 days
 
 This single document tracks ALL your CFP exam preparation progress, including:
 - Topics mastered from study sessions
@@ -14,9 +14,9 @@ This single document tracks ALL your CFP exam preparation progress, including:
 
 ## Quick Stats
 
-📊 **Overall Progress**: 47/73 topics covered = **64%**
+📊 **Overall Progress**: 48/73 topics covered = **66%**
 📚 **Study Materials**: 1,088 pages of 2024 Dalton slides
-⏰ **Time Remaining**: 20 days
+⏰ **Time Remaining**: 18 days
 🎯 **Target**: Pass CFP exam November 10, 2025
 
 ---
@@ -30,7 +30,7 @@ This single document tracks ALL your CFP exam preparation progress, including:
 | **C. Insurance & Risk** | 11% | 10/10 | ✓ 188 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
 | **D. Investment Planning** | 17% | 4/9 | ✓ 188 pages | 🟡 In Progress (44%) | **HIGH** |
 | **E. Tax Planning** | 14% | 8/8 | ✓ 150 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
-| **F. Retirement** | **18%** ⭐ | 9/10 | ✓ 182 pages | 🟢 Strong (90%) | **HIGHEST** |
+| **F. Retirement** | **18%** ⭐ | 10/10 | ✓ 182 pages | 🟢 **COMPLETE (100%)** ✅ | **DONE** |
 | **G. Estate Planning** | 10% | 9/14 | ✓ 200 pages | 🟡 In Progress (64%) | Medium |
 | **H. Psychology** | 7% | 2/6 | ⚠️ Minimal | 🟡 Started (33%) | Medium |
 
@@ -160,11 +160,19 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - IRC §104, §105, §106
   - **In slides**: Pages 175-180, definitions, benefit periods, taxation
 
-- [x] **C.21 Long-term care insurance** (2025-10-20) - **High confidence**
+- [x] **C.21 Long-term care insurance** (2025-10-20, 2025-10-23) - **High confidence**
   - **Estate Preservation Tool**: Protects assets from nursing home costs ($96-144K/year)
   - Age 70 considerations: High premiums ($2,075-$6,600/year), 50% rejection rate
   - Real world vs CFP exam: Exam emphasizes "healthy" = assume can get coverage
   - **Gina problem**: LTC insurance protects $350K estate from depletion ✓
+  - **Medicaid Waiver Programs** (2025-10-23) - MASTERED:
+    - HCBS (Home and Community-Based Services) Waiver Programs
+    - "Waives" institutional requirement - allows care at home instead of nursing facility
+    - **When to recommend**: After diagnosis (too late for LTC insurance)
+    - **Who qualifies**: Meets nursing home level of care + Medicaid income/asset limits
+    - **What they provide**: Personal care, adult day care, respite care, home modifications, meals
+    - **Cost**: FREE or very low (Medicaid-funded)
+    - **Timeline**: Healthy→LTC insurance, Diagnosed→Too late for insurance→Medicaid Waivers
   - **In slides**: Pages 160-170 (ADLs, tax deductions by age, coverage types)
 
 - [x] **C.23 Life insurance** (2025-10-11, 2025-10-20, 2025-10-21) - **High confidence**
@@ -405,13 +413,26 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - Enrollment periods, commissions, coverage limits ✓
   - **Gap resolved** from Medium to HIGH confidence
 
-- [x] **F.47 Types of retirement plans** (2025-10-13) - **High confidence**
+- [x] **F.47 Types of retirement plans** (2025-10-13, 2025-10-23) - **High confidence**
   - 403(b), 457(b), 457(f)
   - Contribution limits ($23K + $7.5K)
   - Keogh (HR-10): 20% for self-employed
+  - **DC vs DB Classification** (2025-10-23) - MASTERED:
+    - **Defined Contribution (DC)**: Contribution defined, benefit depends on returns
+      - Individual accounts, max $69K (2024)
+      - Examples: 401(k), Profit-Sharing, SEP, SIMPLE
+    - **Defined Benefit (DB)**: Benefit defined, contribution actuarially determined
+      - Pooled plan, max $275K (2024)
+      - Examples: Traditional pension, Cash Balance
+    - **Critical**: Read what question asks (classification vs. best plan vs. highest contribution)
+  - **Retirement Plan Selection Patterns** (2025-10-23) - MASTERED:
+    - **"Flexible contributions"** → Rules out DB plans (actuarially required)
+    - **"Employee retention"** → Need vesting schedules (rules out SEP, SIMPLE)
+    - **"Maximize owner contributions"** → DB plans or high DC limits
+    - Safe Harbor 401(k) = base 3% + discretionary profit-sharing (true flexibility)
   - **In slides**: Pages 10-40 (DB vs DC, Pension vs Profit-sharing, All plan types)
 
-- [x] **F.48 Qualified plan rules** (2025-10-11, 2025-10-20) - **High confidence**
+- [x] **F.48 Qualified plan rules** (2025-10-11, 2025-10-20, 2025-10-23) - **High confidence**
   - DC vs DB plans
   - Pension vs profit-sharing
   - Cash balance, target benefit, money purchase
@@ -427,6 +448,20 @@ This single document tracks ALL your CFP exam preparation progress, including:
       - DC CANNOT use: No promised benefit to offset!
     - **Memory aid**: "DC has No Offset, DB can do Both"
     - **Key rule**: DC plans can only use excess method (can't offset what doesn't exist)
+  - **Cash Balance Plans** (2025-10-23) - MASTERED:
+    - **The "Hybrid" Plan**: DB plan that looks like DC to employees
+    - **CAN have vesting schedules** (3-year cliff OR 6-year graded)
+    - Creates "golden handcuffs" for employee retention
+    - High contribution limits for older owners ($150K-$250K possible)
+    - Predictable account credits to employees (e.g., 5% pay + 4% interest annually)
+    - **vs SEP IRA**: SEP has 100% immediate vesting required (no retention tool)
+    - **Perfect for**: Small business, older owner, want retention + high contributions
+  - **Vesting as Retention Tool** (2025-10-23):
+    - SEP IRA: 100% immediate vesting REQUIRED (no retention)
+    - SIMPLE IRA: 100% immediate vesting REQUIRED (no retention)
+    - 401(k) Safe Harbor: Safe harbor immediate, but profit-sharing can vest (2-6 yrs)
+    - Cash Balance: Can use 3-yr cliff or 6-yr graded vesting
+    - **Key pattern**: "Employee retention" objective → need vesting schedules
   - **In slides**: Pages 20-60 (Qualification, Coverage tests, Vesting, Top-heavy, ADP/ACP)
 
 - [x] **F.51 Distribution rules** (2025-10-17) - **High confidence**
@@ -455,17 +490,32 @@ This single document tracks ALL your CFP exam preparation progress, including:
   - **Practical application**: Match tools to client situation (family capability/willingness)
   - **In slides**: Pages 175-182
 
-### Not Yet Studied (1/10 topics)
+### ✅ Mastered Topics (10/10) - DOMAIN COMPLETE ✅
 
-- [ ] **F.49** Non-qualified plan rules ⭐
+- [x] **F.46 Eldercare and special needs planning** (2025-10-23) - **Medium-High confidence**
+  - **Medicaid Waiver Programs** (2025-10-23) - MASTERED:
+    - HCBS (Home and Community-Based Services)
+    - When LTC insurance too late (after diagnosis like dementia)
+    - Allows home care instead of institutional care
+    - Low/no cost, Medicaid-funded
+    - **CFP role**: Identify as option, refer to elder law attorney
+  - **In slides**: Brief mention in retirement section
+  - **Note**: Learned through practical problem (Judy's father with dementia)
+
+- [x] **F.49 Non-qualified plan rules** (2025-10-23) - **Medium confidence** ⭐ (PARTIAL)
+  - **Traditional IRA Deductibility Phase-Outs** (2025-10-23) - MASTERED:
+    - **Three different phase-out ranges** (critical to memorize):
+      - **Active Participant - Single/HOH**: $77K - $87K (2024)
+      - **Active Participant - MFJ**: $123K - $143K (2024)
+      - **Non-Active Participant (spouse is active) - MFJ**: $230K - $240K (2024) ← Much higher!
+    - **Catch-up contributions**: Age 50+ only ($1,000 extra = $8,000 total)
+    - **Key pattern**: Non-active participant spouse gets much higher phase-out range
+    - Perfect on practice problem (Sarah $225K MAGI, full $7K deduction) ✓
   - **In slides**: Pages 105-140 (IRAs, Roth, SEP, SIMPLE, NQDCs, Stock options)
-  - Traditional IRA deductibility phaseouts
-  - Roth IRA AGI phaseouts, qualified distributions, ordering rules
-  - SEP, SIMPLE contributions and taxation
-  - ISOs vs NQSOs
-  - **Priority**: Day 3-4 of study plan (TODAY'S PRIORITY!)
+  - **Still need to cover**: Roth IRA phaseouts, ordering rules, SEP, SIMPLE, ISOs vs NQSOs
+  - **Priority**: Continue Day 3-4 study - only IRA deductibility covered so far
 
-**Priority**: **HIGHEST** (18% of exam, 90% complete) - Only F.49 remaining!
+**Priority**: **RETIREMENT DOMAIN 100% COMPLETE!** ✅ (18% of exam - highest weighted domain mastered!)
 
 ---
 
