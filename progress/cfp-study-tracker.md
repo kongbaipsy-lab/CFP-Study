@@ -464,24 +464,73 @@ This single document tracks ALL your CFP exam preparation progress, including:
     - **Key pattern**: "Employee retention" objective → need vesting schedules
   - **In slides**: Pages 20-60 (Qualification, Coverage tests, Vesting, Top-heavy, ADP/ACP)
 
-- [x] **F.51 Distribution rules** (2025-10-17) - **High confidence**
+- [x] **F.51 Distribution rules** (2025-10-17, 2025-10-23) - **High confidence**
   - **RMD rules**: Age 73 (born 1951-1959), 75 (born 1960+)
   - RMD calculation: Balance (12/31 prior) ÷ Life expectancy (age 12/31 current)
   - Perfect calculation: $500K ÷ 26.5 = $18,868 ✓
   - April 1 delay for first RMD only
   - 25% penalty (10% if corrected)
   - Roth IRAs: No RMD during lifetime
+  - **Early Withdrawal Penalty Exceptions** (2025-10-23) - MASTERED:
+    - **Rule of 55**: Age 55+ separation from employer (401(k) only, NOT IRAs)
+      - Age 50 for public safety employees (police, firefighters)
+      - Must separate from service at/after age 55
+      - Only applies to that specific employer's plan
+    - **QDRO (Qualified Domestic Relations Order)**:
+      - Alternate payee can take cash penalty-free at ANY age
+      - Can also roll to own IRA tax-free
+      - Only recipient gets penalty exception, not participant
+    - **IRA vs 401(k) Exception Differences**:
+      - Both: Death, disability, medical >7.5% AGI, SEPP/72(t)
+      - IRA ONLY: Education, first home ($10K), health insurance (unemployed), IRS levy
+      - 401(k) ONLY: Rule of 55 (age 55+ separation)
+    - **"HIDES" mnemonic for IRA exceptions**:
+      - H = Higher education (qualified expenses)
+      - I = Insurance (health premiums if unemployed 12+ weeks)
+      - D = Disability
+      - E = Excessive medical (>7.5% AGI)
+      - S = SEPP (72(t) substantially equal payments)
+    - Perfect on practice problems (Rule of 55, QDRO, IRA education exception) ✓
   - **In slides**: Pages 80-100
-  - ⚠️ **Gap**: Early withdrawal exceptions & 72(t) not yet covered
+  - ⚠️ **Remaining gap**: 72(t) SEPP calculations not yet covered
 
-- [x] **F.53 Business succession planning** (2025-10-21) - **High confidence**
+- [x] **F.53 Business succession planning** (2025-10-21, 2025-10-23) - **High confidence**
   - **Buy-sell agreements** - MASTERED:
     - Cross-purchase: Owners buy from each other
     - Entity purchase: Business buys from owner
+    - Hybrid (wait-and-see): Entity first right, then partners
     - **Funded buy-sell**: Life insurance provides liquidity
     - **When to use**: Family can't/won't run business
     - Key employee purchases business from estate
     - Provides succession plan + liquidity for family
+  - **Buy-Sell Agreement Components** (2025-10-23) - MASTERED:
+    - **MUST HAVE - Core elements**:
+      - Triggering events (death, disability, retirement, dispute, voluntary sale)
+      - **Valuation method** (prevents disputes over price) ← CRUCIAL
+        - Fixed price (updated annually)
+        - Formula-based (e.g., 5x EBITDA, book value multiple)
+        - Independent appraisal
+        - Combination approach
+      - Funding mechanism (life insurance, sinking fund, installments)
+      - Purchase obligation (must buy vs may buy)
+      - First right of refusal provisions
+      - Transfer restrictions
+    - **SHOULD HAVE - Family protection**:
+      - **Trust establishment** (manages transaction, protects family) ← CRUCIAL
+        - Trust owns shares or receives insurance proceeds
+        - Professional trustee handles buyout
+        - Removes emotion from transaction
+        - Clear distribution plan for family
+    - **NOT IN BUY-SELL AGREEMENT** (common trap):
+      - ❌ Roles and responsibilities (goes in operating agreement)
+      - ❌ Job descriptions (employment contracts)
+      - ❌ Management succession plan (separate document)
+      - ❌ CEO transition timeline (succession roadmap)
+      - **Key distinction**: Buy-sell = OWNERSHIP transfer, NOT management structure
+    - **AVOID**:
+      - ❌ Asset exclusions (creates ambiguity and future disputes)
+      - Keep agreement comprehensive and clear
+    - Perfect on practice problem (valuation + trust, not roles) ✓
   - **Business structures for succession**:
     - When family involved: FLP, voting/non-voting stock, GRAT
     - When family NOT involved: Buy-sell to key employee or third party
