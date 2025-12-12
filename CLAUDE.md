@@ -6,33 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is the CFP-Study repository - a learning environment for CFP (Certified Financial Planner) exam preparation using guided learning methodology.
 
-**Exam Date**: November 10th, 2025
-**Days Remaining**: 3 days (as of Nov 7, 2025) ⚠️
-**Current Progress**: 82% coverage (60/73 CFP topics)
-**Study Materials**: 2024 Dalton Review Slides (1,088 pages) - ALL 6 decks analyzed and mapped
-**Status**: FINAL COUNTDOWN - 3 days to exam!
-
-### Current Situation (November 7, 2025)
-
-**COMPLETE Domains** (60% of exam weight!):
-- ✅ **Retirement Planning** (F.44-F.53): 100% COMPLETE - All 10 topics mastered
-- ✅ **Investment Planning** (D.27-D.35): 100% COMPLETE - All 9 topics mastered
-- ✅ **Tax Planning** (E.36-E.43): 100% COMPLETE - All 8 topics mastered
-- ✅ **Insurance Planning** (C.17-C.26): 100% COMPLETE - All 10 topics mastered
-
-**In Progress** (33% of exam):
-- 🟡 **General Principles** (B.7-B.16): 80% covered (8/10 topics) - Need B.15 Education funding
-- 🟡 **Estate Planning** (G.54-G.64): 64% covered (9/14 topics) - Working through remaining topics
-- 🟡 **Psychology** (H.65-H.70): 33% covered (2/6 topics) - Low priority (7% of exam)
-
-**Not Yet Started**:
-- ⚪ **Professional Conduct** (A.1-A.6): 0% covered - 8% of exam, can complete in 2-3 hours
-
-**Learning Pattern Observed**:
-- Student learns best through practice problems and self-directed research
-- Strong mathematical reasoning (RMD calculations, 1031 exchanges perfect)
-- Excellent critical thinking (Medicare deep dive, market dynamics understanding)
-- Needs fresh mind for complex technical topics (not when tired)
+**For current progress, exam dates, and study plans, see:** `/progress/cfp-study-tracker.md`
 
 ## Role: CFP Exam Preparation Tutor
 
@@ -288,7 +262,6 @@ For EVERY learning conversation, Claude must complete BOTH steps:
 - ❌ DO NOT skip updating the tracker - it's the student's exam roadmap
 
 **Why This Matters:**
-- The exam is November 6th, 2025 - time is limited (18 days remaining)
 - Session history provides context for personalized review sessions
 - Knowledge gaps can be systematically addressed
 - Progress can be measured over time
@@ -299,144 +272,6 @@ For EVERY learning conversation, Claude must complete BOTH steps:
 - When student asks about previously covered topics
 - When creating practice tests
 - When assessing readiness for the exam
-
----
-
-## 6-Day Final Week Plan (November 4-9, 2025)
-
-**Current Status**: 81% complete, all highest-weighted domains (60% of exam) MASTERED!
-- ✅ Retirement (18%), Investment (17%), Tax (14%), Insurance (11%) = **COMPLETE**
-
-**Remaining Focus**: Fill gaps in lower-weighted domains + review + rest
-
-### 📅 DAY 1 (Nov 4 - Monday)
-
-**B.15 Education Funding** - Complete General Principles Domain
-- Pell Grant, Stafford loans, PLUS loans
-- Income-Based Repayment, Public Service Loan Forgiveness
-- Work-Study programs
-- **WHY**: Finish General Principles (15% of exam, currently 80% done)
-- **SLIDES**: Fundamentals pages 70-80
-- **TIME**: 1-2 hours
-
-**Estate Planning Practice Problems** - Reinforce G.54-G.60
-- Review: Gift tax, trusts, step-up basis, QTIP, property titling
-- Practice problems on topics already mastered
-- **WHY**: Keep fresh, Estate = 10% of exam
-- **TIME**: 2-3 hours
-
-### 📅 DAY 2 (Nov 5 - Tuesday)
-
-**G.55-G.56 Estate Planning Remaining Topics**
-- G.55: Transfer strategies (GRAT, GRUT, QPRT, FLP, SCIN)
-- G.56: Estate documents (Wills, POA, Healthcare proxy, Living will)
-- **WHY**: Complete Estate Planning domain (10% of exam)
-- **SLIDES**: Estate pages 100-130
-- **TIME**: 3-4 hours
-
-**Review: General Principles Key Concepts**
-- Financial ratios (28-36 rule)
-- Economic concepts (GDP, fiscal/monetary policy)
-- Time value of money
-- **TIME**: 1-2 hours
-
-### 📅 DAY 3 (Nov 6 - Wednesday)
-
-**A.1-A.6 Professional Conduct (Complete Review)**
-- A.1: CFP Code of Ethics (6 Principles: Integrity, Objectivity, Competence, Fairness, Confidentiality, Professionalism)
-- A.2: CFP Board Procedural Rules (30-day reporting, bankruptcy disclosure)
-- A.3: Financial institutions (FDIC $250K coverage)
-- A.4: Financial regulations (Securities Acts 1933/1934, Form ADV, FINRA)
-- A.5: Consumer protection (Fair Credit, Truth in Lending, CARD Act)
-- A.6: Fiduciary duties (act in client's best interest, conflicts disclosure)
-- **WHY**: 8% of exam, can complete in one focused session
-- **SLIDES**: Fundamentals pages 1-40
-- **TIME**: 3-4 hours
-
-### 📅 DAY 4 (Nov 7 - Thursday)
-
-**G.61-G.64 Estate Planning Final Topics**
-- G.61: Business transfer techniques (buy-sell agreements, §303, §6166, §2032A)
-- G.62: Postmortem estate planning (disclaimers, QTIP election, IRD)
-- G.63: Special circumstances (divorce, unmarried couples, non-citizens)
-- G.64: Special needs planning (SNT, ABLE accounts)
-- **WHY**: Complete Estate Planning (10% of exam)
-- **SLIDES**: Estate pages 170-200
-- **TIME**: 3-4 hours
-
-**Psychology Quick Review (If Time)**
-- H.65-H.66: Behavioral finance, client biases
-- H.69: Communication techniques
-- **WHY**: 7% of exam, lowest priority but good to review
-- **TIME**: 1-2 hours if available
-
-### 📅 DAY 5 (Nov 8 - Friday)
-
-**COMPREHENSIVE REVIEW DAY**
-- **Morning**: Review all memory systems created during study sessions
-  - "28-36 + 3-6-10" (financial ratios)
-  - "Hardship = Access Pass, Not Tax Pass"
-  - "SCIN = SALE, Everything Else = GIFT"
-  - "POWER PAYS" (trust taxation)
-  - All other mnemonics
-- **Afternoon**: Practice problems from HIGHEST-WEIGHTED domains
-  - Retirement (18%) - RMDs, distributions, plan types
-  - Investment (17%) - Sharpe/Treynor, valuation, risk measures
-  - Tax (14%) - Gift tax, business taxation, capital gains
-  - General Principles (15%) - Ratios, economic concepts
-- **Evening**: Review knowledge gaps list, verify all resolved
-- **TIME**: Full day review
-
-### 📅 DAY 6 (Nov 9 - Saturday) - DAY BEFORE EXAM
-
-**LIGHT REVIEW + REST DAY** 🧘
-- **Morning**: Light review only
-  - Skim through key formulas
-  - Review CFP Code of Ethics (6 Principles)
-  - Quick glance at financial ratios
-- **Afternoon**: STOP STUDYING
-  - Prepare exam materials (ID, calculator, confirmation)
-  - Check exam location, travel time, parking
-  - Lay out clothes for exam day
-- **Evening**: Relax and rest
-  - Light meal, hydrate
-  - Early to bed (8+ hours sleep)
-  - Visualization: See yourself succeeding on exam
-
-### 🎯 EXAM DAY (Nov 10 - Sunday)
-
-- **Healthy breakfast** (protein + complex carbs)
-- **Arrive 30 minutes early** (reduce stress)
-- **Trust your preparation** (81% coverage, 60% of exam mastered!)
-- **Read questions carefully** (watch for "EXCEPT" and "NOT")
-- **Use memory systems** (recall mnemonics created)
-- **Stay calm** (you're well-prepared!)
-
-**YOU'VE GOT THIS!** 🎓
-
----
-
-## Study Session Best Practices (Based on Student's Learning Pattern)
-
-**What Works for This Student**:
-- ✅ Practice problems and testing knowledge (Oct 17 session - excellent performance)
-- ✅ Self-directed research then verification (Oct 18 Medicare deep dive)
-- ✅ Real-world scenarios and critical thinking questions
-- ✅ Mathematical calculations (RMDs, 1031 exchanges - perfect execution)
-- ✅ Understanding "why" and market dynamics (agent commissions insight)
-
-**What to Avoid**:
-- ❌ Teaching complex technical topics when student is tired (E.38 business taxation issue)
-- ❌ Dumping large amounts of information without practice
-- ❌ Moving on without comprehension verification
-
-**Teaching Approach for Each Session**:
-1. Start with what student already knows (Socratic method)
-2. Provide concise explanation (~200 words)
-3. Give practice problem or scenario
-4. Ask student to explain back in their own words
-5. Connect to real-world application
-6. Verify understanding before moving on
 
 ---
 
@@ -488,12 +323,11 @@ For EVERY learning conversation, Claude must complete BOTH steps:
 
 ### Why This Matters:
 
-- Student has **18 days until exam** - no time to learn wrong information
 - CFP exam is **HARD** - passing rate ~60%, student needs accurate info
 - **Professional certification** - impacts student's career and livelihood
 - **Trust is everything** - if student can't trust answers, tutoring is worthless
 
-**BOTTOM LINE: If you don't KNOW with certainty, SEARCH. Never bullshit.**
+**BOTTOM LINE: If you don't KNOW with certainty, SEARCH. Never guess.**
 
 ## Interaction Guidelines
 
