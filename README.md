@@ -14,7 +14,7 @@ This is my personal study repository that helped me pass the Certified Financial
 - **Exam Date**: November 10, 2025 ✅ PASSED
 - **Final Progress**: 82% (60/73 CFP topics mastered)
 - **Study Sessions**: 23 sessions (Oct 11 - Nov 7, 2025)
-- **Study Materials**: 1,088 pages (2024 Dalton Review slides)
+- **Study Materials**: 2024 Dalton Review slides (not included in repo)
 
 ## How This Works
 
@@ -40,14 +40,6 @@ This repository uses Claude Code as an interactive CFP exam tutor that:
                              # - Topics mastered (60/73)
                              # - Knowledge gaps identified
                              # - Study plan for remaining days
-
-/2024 Slides/                 # Complete 2024 Dalton Review materials
-  2024 TDR Estate slides.pdf
-  2024 TDR Fundamentals slides.pdf
-  2024 TDR Insurance slides.pdf
-  2024 TDR Investments slides.pdf
-  2024 TDR Retirement slides.pdf
-  2024 TDR Tax slides.pdf
 
 CLAUDE.md                     # AI tutor instructions (Socratic method)
 README.md                     # This file
@@ -95,15 +87,7 @@ View your comprehensive study tracker at `/progress/cfp-study-tracker.md` to see
 
 ## Study Materials
 
-**2024 Dalton Review Slides** (1,088 pages total):
-- Estate Planning (200 pages)
-- Fundamentals (90 pages)
-- Insurance (188 pages)
-- Investments (188 pages)
-- Retirement (182 pages)
-- Tax (150 pages)
-
-All materials have been thoroughly mapped to the 73 CFP exam topics.
+I used the **2024 Dalton Review Slides** for my preparation (not included in this repo due to copyright). You can use your own CFP study materials - the AI tutor methodology works with any content.
 
 ## Free Study Resources
 
@@ -167,7 +151,7 @@ Want to use this AI-powered study system for your own CFP exam preparation? It's
    - Track your learning journey just like it did for me
    - Adapt to your learning style
 
-The `CLAUDE.md` file contains all the instructions for how Claude should tutor you. The `2024 Slides/` folder has all the study materials already mapped to CFP topics. **It works magically!**
+The `CLAUDE.md` file contains all the instructions for how Claude should tutor you. **It works magically!**
 
 ## Getting Started
 
